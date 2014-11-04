@@ -1,0 +1,19 @@
+{
+  "name": "ngtheme",
+  "version": "0.0.2",
+  "homepage": "https://github.com/whatifif/ngtheme",
+  "authors": [
+    "whatifif <whatifif@yahoo.com>"
+  ],
+  "description": "ngtheme",
+  "keywords": [
+    "ngtheme"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
